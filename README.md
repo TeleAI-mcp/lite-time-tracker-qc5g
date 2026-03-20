@@ -1,2 +1,3 @@
-# lite-time-tracker-qc5g
-Automated issue comment bot repository
+# Lite Time Tracker Qc5G
+
+Automated issue comment bot repository.
